@@ -1,6 +1,6 @@
-new superFun (arg) {
+new superFun (arg, newarg) {
   do new feature action
   do another new action
-  new code line
+  cool action
   some another line
 }
