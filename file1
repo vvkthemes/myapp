@@ -1,5 +1,5 @@
-fun MyFun (arg1, arg2, arg3) {
+fun MyFun (arg1, arg3) {
   do something new
-  new line changed
+  new line changed again
   add some new line
 }
