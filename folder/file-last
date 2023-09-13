@@ -1,3 +1,4 @@
-fun Cool () {
+fun Cool (arg1) {
+  before action
   some action
 }
